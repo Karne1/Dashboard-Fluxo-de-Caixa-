@@ -20,7 +20,7 @@ Este projeto apresenta um dashboard interativo de fluxo de caixa construído no 
 
 ## 📷 Visual do Projeto
 
-![Preview do Dashboard](file:///C:/Users/karen/Downloads/DASHBOARD%20PREVIEW.png)
+![Preview do Dashboard](DASHBOARD PREVIEW.png)
 
 ## 👩‍💻 Sobre mim
 Desenvolvido por Karen Vitória – Graduada em Análise e Desenvolvimento de Sistemas, com foco em análise de dados, automação e visualização.
