@@ -14,9 +14,9 @@ Este projeto apresenta um dashboard interativo de fluxo de caixa construído no 
 - DAX (cálculos e medidas personalizadas)
 
 ## 📁 Estrutura
-- `fluxo-caixa.pbix` – Arquivo principal com o dashboard
-- `dados/base_fluxo_caixa.xlsx` – Base de dados simulada
-- `file:///C:/Users/karen/Downloads/2025-Materiais-Aula1_Imersao-PBI/Plano%20de%20Fundo.svg` – Imagem do dashboard
+- `DASHBOARD FLUXO DE CAIXA.pbix` – Arquivo principal com o dashboard
+- `dados` – Base de dados simulada
+- `PlanodeFundo.svg` – Imagem do dashboard
 
 ## 📷 Visual do Projeto
 
